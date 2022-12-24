@@ -14,3 +14,6 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about ... -->
 
 📫 How to reach me: jupiter14159@hanmail.net
+
+Data Analytics Projects
+1. Statistical Analysis of a Randomized Function
