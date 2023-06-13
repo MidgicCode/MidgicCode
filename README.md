@@ -19,5 +19,6 @@ Data Analytics Projects
 1. <a href="https://github.com/MidgicCode/project-1/blob/main/Excel%20Random%20Bias.pdf">Statistical Analysis of a Randomized Function</a>
 
 Certificates
-<a href="https://github.com/MidgicCode/project-1/blob/main/Excel%20Random%20Bias.pdf">Statistical Analysis of a Randomized Function</a>
+
+<a href="https://github.com/MidgicCode/MidgicCode/blob/main/Coursera%20Certificate%20Project%20dashboard.pdf">Create Charts and Dashboards Using Microsoft Excel</a>
 
