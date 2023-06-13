@@ -17,3 +17,5 @@ Here are some ideas to get you started: -->
 
 Data Analytics Projects
 1. [Statistical Analysis of a Randomized Function] (https://github.com/MidgicCode/project-1/blob/main/Excel%20Random%20Bias.pdf)
+
+1. <a href="https://github.com/MidgicCode/project-1/blob/main/Excel%20Random%20Bias.pdf">Statistical Analysis of a Randomized Function</a>
