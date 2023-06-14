@@ -22,4 +22,4 @@ Certificates
 
 <a href="https://github.com/MidgicCode/MidgicCode/blob/main/Coursera%20Certificate%20Project%20dashboard.pdf">Create Charts and Dashboards Using Microsoft Excel</a>
 
-<a href="https://github.com/MidgicCode/MidgicCode/blob/main/Coursera%20Certificate%20Project%20dashboard.pdf">Create Charts and Dashboards Using Microsoft Excel</a>
+<a href="https://github.com/MidgicCode/MidgicCode/blob/main/Coursera%20Certificate%20Dashboard%20Slicers.pdf">Create Charts and Dashboard Using Google Sheets</a>
