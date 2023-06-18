@@ -18,6 +18,9 @@ Here are some ideas to get you started: -->
 Data Analytics Projects
 1. <a href="https://github.com/MidgicCode/project-1/blob/main/Excel%20Random%20Bias.pdf">Statistical Analysis of a Randomized Function</a>
 
+2. <a href="https://github.com/MidgicCode/MidgicCode/blob/main/Big%20Three%20Tennis%20Titles%20By%20Age.pdf">Big Three Tennis Titles By Age</a>
+
+
 Certificates
 
 <a href="https://github.com/MidgicCode/MidgicCode/blob/main/Coursera%20Certificate%20Project%20dashboard.pdf">Create Charts and Dashboards Using Microsoft Excel</a>
