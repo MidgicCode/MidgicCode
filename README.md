@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 🔭 I’m currently working on projects in Data Analytics.
 
-🌱 I’m currently learning Python and R.
+🌱 I’m currently using SQL, Tableau, Excel, Python, and R.
 
 👯 I’m looking to collaborate on projects in Data Analytics.
 <!-- 🤔 I’m looking for help with
