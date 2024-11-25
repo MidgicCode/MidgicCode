@@ -29,5 +29,5 @@ Certificates
 
 <a href="https://github.com/MidgicCode/MidgicCode/blob/main/Coursera%20Certificate%20Dashboard%20Slicers.pdf">Create Charts and Dashboard Using Google Sheets</a>
 
-<a href="https://github.com/MidgicCode/MidgicCode/blob/main/Coursera%20Certificate%20Excel%20Functions.pdf">Excel Function</a>
+<a href="https://github.com/MidgicCode/MidgicCode/blob/main/Coursera%20Certificate%20Excel%20Functions.pdf">Excel Functions</a>
 
